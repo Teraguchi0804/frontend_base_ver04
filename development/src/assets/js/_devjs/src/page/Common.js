@@ -28,8 +28,6 @@ export default class Common {
 
   onLoad() {
 
-		this.pageTopEvent();
-
   }
 
   setEvents() {

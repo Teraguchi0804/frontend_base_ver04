@@ -1,103 +1,31 @@
 {
   "description": "description",
-  "keyword": "ガチャ, ガチャガチャ, ガチャポン, カプセルトイ, イベント, 集客",
+  "keyword": "",
   "ogpImgPath": "",
-  "copy": "Copyright © SONICJAM Inc. All rights reserved.",
-  "color": "#52b4ff",
+  "copy": "",
+  "color": "",
   "top": {
-    "title": "Techガチャ研究所",
-    "description": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-    "keyword": "ガチャ, ガチャガチャ, ガチャポン, カプセルトイ, イベント, 集客",
-    "copy": "Copyright © SONICJAM Inc. All rights reserved.",
-    "color": "#52b4ff",
+    "title": "",
+    "description": "",
+    "keyword": "",
+    "copy": "",
+    "color": "",
     "fb": {
-      "tit": "Techガチャ研究所",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
+      "tit": "",
+      "des": "",
+      "img": "",
+      "siteName": "",
       "type": "website",
-      "url": "https://gacha-lab.tech/"
+      "url": ""
     },
     "tw": {
       "card": "summary_large_image",
       "creator": "",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
-      "tit": "Techガチャ研究所",
-      "url": "https://gacha-lab.tech/"
-    }
-  },
-  "smile": {
-    "title": "SMILE GACHA | Techガチャ研究所",
-    "description": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-    "keyword": "ガチャ, ガチャガチャ, ガチャポン, カプセルトイ, イベント, 集客",
-    "copy": "Copyright © SONICJAM Inc. All rights reserved.",
-    "color": "#52b4ff",
-    "fb": {
-      "tit": "SMILE GACHA | Techガチャ研究所",
-      "des": "笑顔でガチャガチャ一回ゲット！内蔵カメラと顔認識技術により、ガチャガチャの前に立ち笑顔が認識されると、一回まわせるようになる仕組みを実現しました。",
-      "img": "https://gacha-lab.tech/assets/resource/img/product/smile/smile_og.png",
-      "siteName": "Techガチャ研究所",
-      "type": "website",
-      "url": "https://gacha-lab.tech/products/smile/"
-    },
-    "tw": {
-      "card": "summary_large_image",
-      "creator": "",
-      "des": "笑顔でガチャガチャ一回ゲット！内蔵カメラと顔認識技術により、ガチャガチャの前に立ち笑顔が認識されると、一回まわせるようになる仕組みを実現しました。",
-      "img": "https://gacha-lab.tech/assets/resource/img/product/smile/smile_og.png",
-      "siteName": "Techガチャ研究所",
-      "tit": "SMILE GACHA | Techガチャ研究所",
-      "url": "https://gacha-lab.tech/products/smile/"
-    }
-  },
-  "privacy": {
-    "title": "プライバシーポリシー | Techガチャ研究所",
-    "description": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-    "keyword": "ガチャ, ガチャガチャ, ガチャポン, カプセルトイ, イベント, 集客",
-    "copy": "Copyright © SONICJAM Inc. All rights reserved.",
-    "color": "#52b4ff",
-    "fb": {
-      "tit": "Techガチャ研究所",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
-      "type": "website",
-      "url": "https://gacha-lab.tech/"
-    },
-    "tw": {
-      "card": "summary_large_image",
-      "creator": "",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
-      "tit": "Techガチャ研究所",
-      "url": "https://gacha-lab.tech/"
-    }
-  },
-  "contact": {
-    "title": "お問い合わせ | Techガチャ研究所",
-    "description": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-    "keyword": "ガチャ, ガチャガチャ, ガチャポン, カプセルトイ, イベント, 集客",
-    "copy": "Copyright © SONICJAM Inc. All rights reserved.",
-    "color": "#52b4ff",
-    "fb": {
-      "tit": "Techガチャ研究所",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
-      "type": "website",
-      "url": "https://gacha-lab.tech/"
-    },
-    "tw": {
-      "card": "summary_large_image",
-      "creator": "",
-      "des": "Techガチャ研究所は、テクノロジーを使ってガチャガチャの新しい体験をお届けする、あミューズとソニックジャムの共同ブランドです。",
-      "img": "https://gacha-lab.tech/assets/resource/img/og.png",
-      "siteName": "Techガチャ研究所",
-      "tit": "Techガチャ研究所",
-      "url": "https://gacha-lab.tech/"
+      "des": "",
+      "img": "",
+      "siteName": "",
+      "tit": "",
+      "url": ""
     }
   }
 }
